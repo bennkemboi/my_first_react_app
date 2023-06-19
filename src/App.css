@@ -8,7 +8,7 @@
     rgba(103, 101, 240, 1) 27%,
     rgba(141, 141, 235, 1 ) 85%
     );
-    --font-name:"montserrat", sans-serif;
+    --font-name:"metropolis", sans-serif;
 }
 
 /* 
@@ -28,7 +28,7 @@ body {
     font-family: var(--font-name);
 }
 h1, h2, h3 {
-    font-weight: 700;
+
 }
 section {
     padding: 50px 0px;
@@ -50,5 +50,6 @@ ul {
     margin: auto;
  }
  .section__title {
-    color:
+    color:var(--heading-color);
  }
+
