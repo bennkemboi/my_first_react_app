@@ -29,8 +29,49 @@ const pricing = () => {
                     <li><span></span>Stardard options</li>
                     <li><span></span>5 classes</li>
                     </ul>
+                    <button className="register_btn">Join Now</button>
                 </div>
+              
              </div>
+
+             <div className="pricing_item">
+                <div className="pricing_card-top">
+                <h2 className="section_title">Regular member</h2>
+                <h2 className="pricing section_title">Ksh 1500/month <span></span> </h2>
+                </div>
+
+                 <div className="services">
+                    <ul>
+                    <li><span></span>Unlimited access to the gym</li>
+                    <li><span></span>Customer support</li>
+                    <li><span></span>Personal trainer</li>
+                    <li><span></span>Stardard options</li>
+                    <li><span></span>5 classes</li>
+                    </ul>
+                    <button className="register_btn">Join Now</button>
+                </div>
+              
+             </div>
+
+             <div className="pricing_item">
+                <div className="pricing_card-top">
+                <h2 className="section_title">Regular member</h2>
+                <h2 className="pricing section_title">Ksh 1500/month <span></span> </h2>
+                </div>
+
+                 <div className="services">
+                    <ul>
+                    <li><span></span>Unlimited access to the gym</li>
+                    <li><span></span>Customer support</li>
+                    <li><span></span>Personal trainer</li>
+                    <li><span></span>Stardard options</li>
+                    <li><span></span>5 classes</li>
+                    </ul>
+                    <button className="register_btn">Join Now</button>
+                </div>
+              
+             </div>
+             
             </div>
         </div>
     </section>
